@@ -50,7 +50,7 @@ int main()
 
         if (opcion==1)
         {
-            printf("\nIngrese un caracter de la tabla ASCII: ");
+            printf("\nIngresa un caracter de la tabla ASCII: ");
             fflush(stdin);
             scanf("%c",&letra);
             dec2bin(letra,binario);
