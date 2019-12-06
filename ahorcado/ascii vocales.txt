@@ -1,0 +1,59 @@
+letra: á
+letra ascii: -96
+
+letra: Á
+letra ascii: -75
+
+letra: à
+letra ascii: -123
+
+letra: À
+letra ascii: -73
+
+letra: é
+letra ascii: -126
+
+letra: É
+letra ascii: -112
+
+letra: è
+letra ascii: -118
+
+letra: È
+letra ascii: -44
+
+letra: í
+letra ascii: -95
+
+letra: Í
+letra ascii: -42
+
+letra: ì
+letra ascii: -115
+
+letra: Ì
+letra ascii: -34
+
+letra: ó
+letra ascii: -94
+
+letra: Ó
+letra ascii: -32
+
+letra: ò
+letra ascii: -107
+
+letra: Ò
+letra ascii: -29
+
+letra: ú
+letra ascii: -93
+
+letra: Ú
+letra ascii: -23
+
+letra: ù
+letra ascii: -105
+
+letra: Ù
+letra ascii: -21

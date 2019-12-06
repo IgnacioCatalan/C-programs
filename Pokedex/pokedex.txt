@@ -1,0 +1,302 @@
+Bulbasaur, semilla, Planta. Veneno.
+0.7 6.9 45 49 49 65 65 45 0 0 0 1 0 0
+Ivysaur, semilla, Planta. Veneno.
+1 13 60 62 63 80 80 60 0 0 0 1 1 0
+Venusaur, semilla, Planta. Veneno.
+2 100 80 82 82 100 100 80 0 0 0 2 1 0
+Charmander, lagartija, Fuego. .
+0.6 8.5 39 52 43 60 50 65 0 0 0 0 0 1
+Charmeleon, llama, Fuego. .
+1.1 19 58 64 58 80 65 80 0 0 0 1 0 1
+Charizard, llama, Fuego. Volador.
+1.7 90.5 78 104 78 159 115 100 0 0 0 3 0 0
+Squirtle, tortuguita, Agua. .
+0.5 9 44 48 65 50 64 43 0 0 1 0 0 0
+Wartortle, tortuga, Agua. .
+1 22.5 59 63 80 65 80 58 0 0 1 0 1 0
+Blastoise, marisco, Agua. .
+1.6 85.5 79 83 100 85 105 78 0 0 0 0 3 0
+Caterpie, gusano, Bicho. .
+0.3 2.9 45 30 35 20 20 45 1 0 0 0 0 0
+Metapod, capullo, Bicho..
+0.7 9.9 50 20 55 25 25 30 0 0 2 0 0 0
+Butterfree, mariposa, Bicho. Volador.
+1.1 32 60 45 50 90 80 70 0 0 0 2 1 0
+Weedle, oruga, Bicho. Veneno.
+0.3 3.2 40 35 30 20 20 50 0 0 0 0 0 1
+Kakuna, capullo, Bicho. Veneno.
+0.6 10 45 25 50 25 25 35 0 0 2 0 0 0
+Beedrill, abeja venenosa, Bicho. Veneno.
+1 29.5 65 90 40 45 80 75 0 2 0 0 1 0
+Pidgey, pajarito, Normal. Volador.
+0.3 1.8 40 45 40 35 35 56 0 0 0 0 0 1
+Pidgeotto, pajaro, Normal. Volador.
+1.1 30 63 60 55 50 50 71 0 0 0 0 0 2
+Pidgeot, pajaro, Normal. Volador.
+1.5 39.5 83 80 75 70 70 101 0 0 0 0 0 3
+Rattata, raton, Normal. .
+0.3 3.5 30 56 35 25 35 72 0 0 0 0 0 1
+Raticate, raton, Normal. .
+0.7 18.5 55 81 60 50 70 97 0 0 0 0 0 2
+Spearow, pajarito, Normal. Volador.
+0.3 2 40 60 30 31 31 70 0 0 0 0 0 1
+Fearow, pico, Normal. Volador.
+1.2 38 65 90 65 61 61 100 0 0 0 0 0 2
+Ekans, serpiente, Veneno. .
+2 6.9 35 60 44 40 54 55 0 1 0 0 0 0
+Arbok, cobra, Veneno. .
+3.5 65 60 95 69 65 79 80 0 2 0 0 0 0
+Pikachu, raton, Electrico. .
+0.4 0.6 35 55 40 50 50 90 0 0 0 0 0 2
+Raichu, raton, Electrico. .
+0.8 30 60 90 55 90 80 110 0 0 0 0 0 3
+Sandshrew, raton, Tierra. .
+0.6 12 50 75 85 20 30 40 0 0 1 0 0 0
+Sandslash, raton, Tierra. .
+1 29.5 75 100 110 45 55 65 0 0 2 0 0 0
+Nidoran hembra, pin veneno, Veneno. .
+0.4 7 55 47 52 40 40 41 1 0 0 0 0 0
+Nidorina, pin veneno, Veneno. .
+0.8 20 70 62 67 55 55 56 2 0 0 0 0 0
+Nidoqueen, taladro, Veneno. Tierra.
+1.3 60 90 92 87 75 85 76 3 0 0 0 0 0
+Nidoran macho, pin veneno, Veneno. .
+0.5 9 46 57 40 40 40 50 0 1 0 0 0 0
+Nidorino, pin veneno, Veneno. .
+0.9 19.5 61 72 57 55 55 65 0 2 0 0 0 0
+Nidoking, taladro, Veneno. Tierra.
+1.4 62 81 102 77 85 75 85 0 3 0 0 0 0
+Clefairy, hada, Hada. .
+0.6 7.5 70 45 48 60 65 35 2 0 0 0 0 0
+Clefable, hada, Hada. .
+1.4 40 95 70 73 95 90 60 3 0 0 0 0 0
+Vulpix, zorro, Fuego. .
+0.6 9.9 38 41 40 50 65 65 0 0 0 0 0 1
+Ninetales, zorro, Fuego. .
+1.1 1.9 73 76 75 81 100 100 0 0 0 0 1 1
+Jigglypuff, globo, Normal. Hada.
+0.5 5.5 115 45 20 45 25 20 2 0 0 0 0 0
+Wigglytuff, globo, Normal. Hada.
+1 12 140 70 45 85 50 45 3 0 0 0 0 0
+Zubat, murcielago, Veneno. Volador.
+0.8 7.5 40 45 35 30 40 55 0 0 0 0 0 1
+Golbat, murcielago, Veneno. Volador.
+1.6 55 75 80 70 65 75 90 0 0 0 0 0 2
+Oddish, hierbajo, Planta. Veneno.
+0.5 5.4 45 50 55 75 65 30 0 0 0 1 0 0
+Gloom, hierbajo, Planta. Veneno.
+0.8 8.6 60 65 70 85 75 40 0 0 0 2 0 0
+Vileploom, flor, Planta. Veneno.
+1.2 18.6 75 80 85 110 90 50 0 0 0 3 0 0
+Paras, hongo, Bicho. Planta.
+0.3 5.4 35 70 55 45 55 25 0 1 0 0 0 0
+Parasect, hongo, Bicho. Planta.
+1 29.5 60 95 80 60 80 30 0 2 1 0 0 0
+Venonat, insecto, Bicho. Veneno.
+1 30 60	55 50 40 55 45 0 0 0 0 1 0
+Venomoth, polilla venenosa, Bicho. Veneno.
+1.5 12.5 70 65 60 90 75 90 0 0 0 1 0 1
+Diglett, topo, Tierra. .
+0.2 0.8 10 55 25 35 45 95 0 0 0 0 0 1
+Dugtrio, topo, Tierra. .
+0.7 33.3 35 100 50 50 70 120 0 0 0 0 0 2
+Meowth, gato arana, Normal. .
+0.4 4.2 40 45 35 40 40 90 0 0 0 0 0 1
+Persian, gato fino, Normal. .
+1 32 65 70 60 65 65 115 0 0 0 0 0 2
+Psyduck, pato, Agua. .
+0.8 19.6 50 52 48 65 50 55 0 0 0 1 0 0
+Golduck, pato, Agua. .
+1.7 76.6 80 82 78 95 80 85 0 0 0 2 0 0
+Mankey, mono cerdo, Lucha. .
+0.5 28 40 80 35 35 45 70 0 1 0 0 0 0
+Primeape, mono cerdo, Lucha. .
+1 32 65 105 60 60 70 95 0 2 0 0 0 0
+Growlithe, perrito, Fuego. .
+0.7 19 55 70 45 70 50 60 0 1 0 0 0 0
+Arcanine, legendario, Fuego. .
+1.9 155 90 110 80 100 80 95 0 2 0 0 0 0
+Poliwag, renacuajo, Agua. .
+0.6 12.4 40 50 40 40 40 90 0 0 0 0 0 1
+Poliwhirl, renacuajo, Agua. .
+1 20 65 65 65 50 50 90 0 0 0 0 0 2
+Poliwrath, renacuajo, Agua. Lucha.
+1.3 54 90 95 95 70 90 70 0 0 3 0 0 0
+Abra, psi, Psiquico. .
+0.9 19.5 25 20 15 105 55 90 0 0 0 1 0 0
+Kadabra, psi, Psiquico. .
+1.3 56.5 40 35 30 120 70 105 0 0 0 2 0 0
+Alakazam, psi, Psiquico. .
+1.5 48 55 50 45 135 95 120 0 0 0 3 0 0
+Machop, superpoder, Lucha. .
+0.8 19.5 70 80 50 35 35 35 0 1 0 0 0 0
+Machoke, superpoder, Lucha. .
+1.5 70.5 80 100 70 50 60 45 0 2 0 0 0 0
+Machamp, superpoder, Lucha. .
+1.6 130 90 130 80 65 85 55 0 3 0 0 0 0
+Bellsprout, flor, Planta. Veneno.
+0.7 4 50 75 35 70 30 40 0 1 0 0 0 0
+Weepinbell, matamoscas, Planta. Veneno.
+1 6.4 65 90 50 85 45 55 0 2 0 0 0 0
+Victreebel, matamoscas, Planta. Veneno.
+1.7 15.5 80 105 65 100 70 70 0 3 0 0 0 0
+Tentacool, medusa, Agua. Veneno.
+0.9 45.5 40 40 35 50 100 70 0 0 0 0 1 0
+Tentacruel, medusa, Agua. Veneno.
+1.6 55 80 70 65 80 120 100 0 0 0 0 2 0
+Geodude, roca, Roca. Tierra.
+0.4 20 40 80 100 30 30 20 0 0 1 0 0 0
+Graveler, roca, Roca. Tierra.
+1 105 55 95 115 45 45 35 0 0 2 0 0 0
+Golem, megaton, Roca. Tierra.
+1.4 300 80 120 130 55 65 45 0 0 3 0 0 0
+Ponyta, caballo fuego, Fuego. .
+1 30 50 85 55 65 65 90 0 0 0 0 0 1
+Rapidash, caballo fuego, Fuego. .
+1.7 95 65 100 70 80 80 105 0 0 0 0 0 2
+Slowpoke, atontado, Agua. Psiquico.
+1.2 36 90 65 65 40 40 15 1 0 0 0 0 0
+Slowbro, ermitano, Agua. Psiquico.
+1.6 78.5 95 75 110 100 80 30 0 0 2 0 0 0
+Magnemite, iman, Electrico. Acero.
+0.3 6 25 35 70 95 55 45 0 0 0 1 0 0
+Magneton, iman, Electrico. Acero.
+1 60 50 60 95 120 70 70 0 0 0 2 0 0
+Farfetch'd, pato salvaje, Normal. Volador.
+0.8 15 52 90 55 58 62 60 0 1 0 0 0 0
+Doduo, ave gemela, Normal. Volador.
+1.4 39.2 35 85 45 35 35 75 0 1 0 0 0 0
+Dodrio, ave triple, Normal. Volador.
+1.8 85.2 60 110 70 60 60 110 0 2 0 0 0 0
+Seel, leon marino, Agua. .
+1.1 90 65 45 55 45 70 45 0 0 0 0 1 0
+Dewgong, leon marino, Agua. Hielo.
+1.7 120 90 70 80 70 95 70 0 0 0 0 2 0
+Grimer, lodo, Veneno. .
+0.9 30 80 80 50 40 50 25 1 0 0 0 0 0
+Muk, lodo, Veneno ..
+1.2 30 105 105 75 65 100 50 1 1 0 0 0 0
+Shellder, bivalvo, Agua. .
+0.3 4 30 65 100 45 25 40 0 0 1 0 0 0
+Cloyster, bivalvo, Agua. Hielo.
+1.5 132.5 50 95 180 85 45 70 0 0 2 0 0 0
+Gastly, gas, Fantasma. Veneno.
+1.3 0.1 30 35 30 100 35 80 0 0 0 1 0 0
+Haunter, gas, Fantasma. Veneno.
+0.6 0.1 45 50 45 115 55 95 0 0 0 2 0 0
+Gengar, sombra, Fantasma. Veneno.
+1.5 40.5 60 65 60 130 75 110 0 0 0 3 0 0
+Onix, serpiente roca, Roca. Tierra.
+8.8 210 35 45 160 30 45 70 0 0 1 0 0 0
+Drowzee, hipnosis, Psiquico. .
+1 32.4 60 48 45 43 90 42 0 0 0 0 1 0
+Hypno, hipnosis, Psiquico. .
+1.6 75.6 85 73 70 73 115 67 0 0 0 0 2 0
+Krabby, cangrejo, Agua. .
+0.4 6.5 30 105 90 25 25 50 0 1 0 0 0 0
+Kingler, tenaza, Agua. .
+1.3 60 55 130 115 50 50 75 0 2 0 0 0 0
+Voltorb, bola, Electrico. .
+0.5 10.4 40 30 50 55 55 100 0 0 0 0 0 1
+Electrode, bola, Electrico. .
+1.2 66.6 60 50 70 80 80 150 0 0 0 0 0 2
+Exeggcute, huevo, Planta. Psiquico.
+0.4 2.5 60 40 80 60 45 40 0 0 1 0 0 0
+Exeggutor, coco, Planta. Psiquico.
+2 120 95 95 85 125 75 55 0 0 0 2 0 0
+Cubone, solitario, Tierra. .
+0.4 6.5 50 50 95 40 50 35 0 0 1 0 0 0
+Marowak, apilahueso, Tierra. .
+1 45 60	80 110 50 80 45 0 0 2 0 0 0
+Hitmonlee, patada, Lucha. .
+1.5 49.8 50 120 53 35 110 87 0 2 0 0 0 0
+Hitmonchan, punetazo, Lucha. .
+1.4 50.2 50 105 79 35 110 76 0 0 0 0 2 0
+Lickitung, lametazo, Normal. .
+1.2 65.5 90 55 75 60 75 30 2 0 0 0 0 0
+Koffing, gas venenoso, Veneno. .
+0.6 1 40 65 95 60 45 35 0 0 1 0 0 0
+Weezing, gas venenoso, Veneno. .
+1.2 9.5 65 90 120 85 70 60 0 0 2 0 0 0
+Rhyhorn, clavos, Tierra. Roca.
+1 115 80 85 95 30 30 25 0 0 1 0 0 0
+Rhydon, taladro, Tierra. Roca.
+1.9 120 105 130 120 45 45 40 0 2 0 0 0 0
+Chansey, huevo, Normal. .
+1.1 34.6 250 5 5 35 105 50 2 0 0 0 0 0
+Tangela, enredadera, Planta. .
+1 35 65 55 115 100 40 60 0 0 1 0 0 0
+Kangaskhan, padres, Normal. .
+2.2 80 105 95 80 40 80 90 2 0 0 0 0 0
+Horsea, dragon, Agua. .
+0.4 8 30 40 70 70 25 60 0 0 0 1 0 0
+Seadra, dragon, Agua. .
+1.2 25 55 65 95 95 45 85 0 0 1 1 0 0
+Goldeen, pez color, Agua. .
+0.6 15 45 67 60 35 50 63 0 1 0 0 0 0
+Seaking, pez color, Agua. .
+1.3 39 80 92 65 65 80 68 0 2 0 0 0 0
+Staryu, estrallada, Agua. .
+0.8 34.5 30 45 55 70 55 85 0 0 0 0 0 1
+Starmie, misterioso, Agua. Psiquico.
+1.1 80 60 75 85 100 85 115 0 0 0 0 0 2
+Mr. mime, barrera, Psiquico. Hada.
+1.3 54.5 40 45 65 100 120 90 0 0 0 0 2 0
+Scyther, mantis, Bicho. Volador.
+1.5 56 70 110 80 55 80 105 0 1 0 0 0 0
+Jynx, forma humana, Hielo. Psiquico.
+1.4 40.6 65 50 35 115 95 95 0 0 0 2 0 0
+Electabuzz, electrico, Electrico. .
+1.1 30 65 83 57 95 85 105 0 0 0 0 0 2
+Magmar, escupefuego, Fuego. .
+1.3 44.5 65 95 57 100 85 93 0 0 0 2 0 0
+Pinsir, escarabajo, Bicho. .
+1.5 55 65 125 100 55 70 85 0 2 0 0 0 0
+Tauros, toro bravo, Normal. .
+1.4 88.4 75 100 95 40 70 110 0 1 0 0 0 1
+Magikarp, pez, Agua. .
+0.9 10 20 10 55 15 20 80 0 0 0 0 0 1
+Gyarados, atrocidad, Agua. Volador.
+6.5 235 95 125 79 60 100 81 0 2 0 0 0 0
+Lapras, transporte, Agua. Hielo.
+2.5 220 130 85 80 85 95 60 2 0 0 0 0 0
+Ditto, transformacion, Normal. .
+0.3 4 48 48 48 48 48 48 1 0 0 0 0 0
+Eevee, evolucion, Normal. .
+0.3 6.5 55 55 50 45 65 55 0 0 0 0 1 0
+Vaporeon, burbuja, Agua. .
+1 29 130 65 60 110 95 65 2 0 0 0 0 0
+Jolteon, relampago, Electrico. .
+0.8 24.5 65 65 60 110 95 130 0 0 0 0 0 2
+Flareon, llama, Fuego. .
+0.9 25 65 130 60 95 110 65 0 2 0 0 0 0
+Porygon, virtual, Normal. .
+0.8 36.5 65 60 70 85 75 40 0 0 0 1 0 0
+Omanyte, espiral, Roca. Agua.
+0.4 7.5 35 40 100 90 55 35 0 0 1 0 0 0
+Omastar, espiral, Roca. Agua.
+1 35 70 60 125 115 70 55 0 0 2 0 0 0
+Kabuto, marisco, Roca. Agua.
+0.5 11.5 30 80 90 55 45 55 0 0 1 0 0 0
+Kabutops, marisco, Roca. Agua.
+1.3 40.5 60 115 105 65 70 80 0 2 0 0 0 0
+Aerodactyl, fosil, Roca. Volador.
+1.8 59 80 105 65 60 75 130 0 0 0 0 0 2
+Snorlax, dormilon, Normal. .
+2.1 460 160 110 65 65 110 30 2 0 0 0 0 0
+Articuno, congelar, Hielo. Volador.
+1.7 55.4 90 85 100 95 125 85 0 0 0 0 3 0
+Zapdos, electrico, Electrico. Volador.
+1.6 52.6 90 90 85 125 90 100 0 0 0 3 0 0
+Moltres, llama, Fuego. Volador.
+2 60 90 100 90 125 85 90 0 0 0 3 0 0
+Dratini, dragon, Dragon. .
+1.8 3.3 41 64 45 50 50 50 0 1 0 0 0 0
+Dragonair, dragon, Dragon. .
+4 16.5 61 84 65 70 70 70 0 2 0 0 0 0
+Dragonite, dragon, Dragon. .
+2.2 210 91 134 95 100 100 80 0 3 0 0 0 0
+Mewtwo, genetico, Psiquico. .
+2 122 106 110 90 154 90 130 0 0 0 3 0 0
+Mew, nueva especie, Psiquico. .
+0.4 4 100 100 100 100 100 100 3 0 0 0 0 0
