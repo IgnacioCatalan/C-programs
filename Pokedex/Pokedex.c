@@ -1,9 +1,9 @@
-//Creado por Ignacio Catal·n
+//Creado por Ignacio Catal√°n
 #include <stdio.h>
 #include <string.h>
 #define n 15 //largo de nombres
 #define t 18 //cantidad de tipos
-#define p 151 //tamaÒo de la pokedex
+#define p 151 //tama√±o de la pokedex
 
 typedef struct informacion{ /*peso, estatura, nombre, tipos y especie del pokemon.*/
                float wt, ht;
@@ -22,7 +22,7 @@ typedef struct aporte_EVs{ /*valores de todos los puntos de EV que aporta el pok
                int ps, atk, def, spatk, spdef, spd;}
                evs;
 
-typedef struct pokemon{ /*toda la informacion del pokemon dada por las estructuras anteriores, m·s su numero de pokedex.*/
+typedef struct pokemon{ /*toda la informacion del pokemon dada por las estructuras anteriores, m√°s su numero de pokedex.*/
                int number;
                info info;
                stats stats;
@@ -30,7 +30,7 @@ typedef struct pokemon{ /*toda la informacion del pokemon dada por las estructur
                adv adv;}
                pkmn;
 
-void show_pkmn(pkmn pokemon) //Formato de impresiÛn de la informaciÛn, usando como parametro de entrada el pokemon elegido.
+void show_pkmn(pkmn pokemon) //Formato de impresi√≥n de la informaci√≥n, usando como parametro de entrada el pokemon elegido.
 {
     printf("\n =============");
     printf("\n Pokedex n%c%.3d",-8, pokemon.number);
@@ -63,7 +63,7 @@ void show_pkmn(pkmn pokemon) //Formato de impresiÛn de la informaciÛn, usando co
     printf("\n  Velocidad      :%3d         Velocidad      :%2d", pokemon.stats.spd, pokemon.evs.spd);
 }
 
-void data_f(pkmn lista[p]) //Extrae toda la informaciÛn del archivo "pokedex.txt" para almacenarla en las variables correspondientes de cada pokemon almacenado en el array "lista".
+void data_f(pkmn lista[p]) //Extrae toda la informaci√≥n del archivo "pokedex.txt" para almacenarla en las variables correspondientes de cada pokemon almacenado en el array "lista".
 {
     FILE *fp=NULL;
     char *path="pokedex.txt";
@@ -105,12 +105,12 @@ void data_f(pkmn lista[p]) //Extrae toda la informaciÛn del archivo "pokedex.txt
         }
     }
     fclose(fp);
-    lista[51].info.species[8]=-92; //correccion para agregar la Ò en algunas variables.
+    lista[51].info.species[8]=-92; //correccion para agregar la √± en algunas variables.
     lista[78].info.species[6]=-92;
     lista[105].info.species[2]=-92;
 }
 
-pkmn data_tp_relations(pkmn pokemon) //Calcula las ventajas y desventajas del pokemon elegido (par·metro de entrada) para almacenarlos en sus respectivas variables.
+pkmn data_tp_relations(pkmn pokemon) //Calcula las ventajas y desventajas del pokemon elegido (par√°metro de entrada) para almacenarlos en sus respectivas variables.
 {
     int j, i, type1_ev=18, type2_ev=18;
     float mult=1;
@@ -200,7 +200,7 @@ void upper_correction(char name[n]) //corrige el nombre ingresado por el usuario
     }
 }
 
-int seek_alike(char name[n], pkmn lista[p]) //En caso de que el nombre ingresado por el usuario no coincida con ninguno de los pokemon, esta funcion busca el nombre m·s cercano para entregarlo como sugerencia, retorna un verdadero si se encontrÛ una posible sugerencia, y un falso si es que no se encontrÛ.
+int seek_alike(char name[n], pkmn lista[p]) //En caso de que el nombre ingresado por el usuario no coincida con ninguno de los pokemon, esta funcion busca el nombre m√°s cercano para entregarlo como sugerencia, retorna un verdadero si se encontr√≥ una posible sugerencia, y un falso si es que no se encontr√≥.
 {
     int matches=0,last_match=0, i, j, found=0,suggest;
 
@@ -222,7 +222,7 @@ int seek_alike(char name[n], pkmn lista[p]) //En caso de que el nombre ingresado
     return found;
 }
 
-int selection_name(pkmn lista[p]) //Permite buscar un pokemon por su nombre, cuando el usuario elije esta opciÛn, retorna el pokemon encontrado como una posiciÛn en el array "lista".
+int selection_name(pkmn lista[p]) //Permite buscar un pokemon por su nombre, cuando el usuario elije esta opci√≥n, retorna el pokemon encontrado como una posici√≥n en el array "lista".
 {
     int poke=p+1,i, found, copia;
     char name[n];
@@ -239,7 +239,7 @@ int selection_name(pkmn lista[p]) //Permite buscar un pokemon por su nombre, cua
     }
     if (poke==p+1)
     {
-        found=seek_alike(name,lista); //Si es que no se encontrÛ el nombre ingresado por el usuario, se ejecuta esta funcion para buscar el m·s parecido.
+        found=seek_alike(name,lista); //Si es que no se encontr√≥ el nombre ingresado por el usuario, se ejecuta esta funcion para buscar el m√°s parecido.
         if (found){
             printf("\nNo se pudo encontrar tu pokemon, quzas quisiste decir \"%s\".",name);}
         else{
@@ -249,7 +249,7 @@ int selection_name(pkmn lista[p]) //Permite buscar un pokemon por su nombre, cua
     return poke;
 }
 
-int selection_num(pkmn lista[p])//Permite buscar un pokemon por su n˙mero de pokedex, cuando el usuario elije esta opciÛn, retorna el pokemon encontrado como una posiciÛn en el array "lista".
+int selection_num(pkmn lista[p])//Permite buscar un pokemon por su n√∫mero de pokedex, cuando el usuario elije esta opci√≥n, retorna el pokemon encontrado como una posici√≥n en el array "lista".
 {
     int poke,i;
     printf("\nEscribe el numero del pokemon quieres buscar: ");
@@ -272,7 +272,7 @@ void show_all(pkmn lista[p]) //imprime todos los pokemon de la pokedex.
     }
 }
 
-int main() //Funcion principal del porgrama, recoje toda la inform·cion de los pokemon, entrega al usuario 3 mÈtodos de b˙squeda diferentes y ejecuta la opciÛn elegida.
+int main() //Funcion principal del programa, recoje toda la inform√°cion de los pokemon, entrega al usuario 3 m√©todos de b√∫squeda diferentes y ejecuta la opci√≥n elegida.
 {
     pkmn lista[p];
     int sear,ver,election=p+1;
